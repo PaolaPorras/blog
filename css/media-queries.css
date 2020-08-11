@@ -25,4 +25,8 @@
     .blogs-post-container .post-container {
         max-width: 95%;
     }
+    .blogs-button{
+        display:flex;
+        justify-content: center;
+    }
 }
